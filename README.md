@@ -13,13 +13,9 @@ I build systems end-to-end — from raw data to a working production UI — and 
 ### What I work with
 
 **Backend & APIs** — Python, Java, FastAPI, Flask, REST APIs, PostgreSQL, MySQL
-
 **Data & ML** — pipelines at real scale, feature engineering, model training & evaluation, TensorFlow Lite
-
 **Mobile** — Kotlin, Jetpack Compose, Flutter/Dart, MVVM
-
 **GenAI** — OpenAI API integration, prompt engineering, LLM-backed application workflows
-
 **Infra** — Docker, Git, AWS (S3, EC2)
 
 ### Right now
