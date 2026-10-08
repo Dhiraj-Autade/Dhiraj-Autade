@@ -23,7 +23,6 @@ I build systems end-to-end — from raw data to a working production UI — and 
 I've never let "I don't know this stack yet" be the reason something didn't ship. That's not changing.
 ---
 
-### Reach me
-
+##Reach me
 Email: autadedhiraj33@gmail.com
 LinkedIn: linkedin.com/in/dhiraj-autade
