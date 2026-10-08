@@ -14,14 +14,13 @@ I build systems end-to-end — from raw data to a working production UI — and 
 
 **Backend & APIs** — Python, Java, FastAPI, Flask, REST APIs, PostgreSQL, MySQL
 **Data & ML** — pipelines at real scale, feature engineering, model training & evaluation, TensorFlow Lite
-**Mobile** — Kotlin, Jetpack Compose, Flutter/Dart, MVVM, Retrofit
+**Mobile** — Kotlin, Jetpack Compose, Flutter/Dart, MVVM
 **GenAI** — OpenAI API integration, prompt engineering, LLM-backed application workflows
-**Infra** — Docker, Git, AWS (S3, EC2, Lambda), Linux
+**Infra** — Docker, Git, AWS (S3, EC2)
 
 ### Right now
 
-Closing the gap between "used an LLM through an API" and actually understanding retrieval — building RAG pipelines and vector search from first principles.
-
+I've never let "I don't know this stack yet" be the reason something didn't ship. That's not changing.
 ---
 
 ### Reach me
